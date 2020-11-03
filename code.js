@@ -23,7 +23,7 @@ $(document).ready(
             $("#output").css("color",color);
 
             // output title and name
-            $("#output").text("Hello" + " " + title + " " + firstName + " " + lastName);
+            $("#output").text("Hello," + " " + title + " " + firstName + " " + lastName);
         }
     }
 );
